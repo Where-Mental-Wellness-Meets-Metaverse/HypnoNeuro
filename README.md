@@ -63,3 +63,6 @@ We're seeking:
 
 *Created with purpose by Dr. Meg Montañez Davenport*  
 🧬 Where Mental Wellness Meets the Metaverse.
+
+📄 [Download the Stakeholder Summary](presentation/stakeholder_summary.md)
+
