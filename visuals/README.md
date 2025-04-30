@@ -53,3 +53,11 @@ Even among respondents who reported a **family history of mental illness**, many
 
 This shows that awareness alone isn't enough — the system still fails to engage or earn trust from at-risk individuals. Platforms like HypnoNeuro must meet people where they are, offering care that is **private, stigma-free, and disconnected from clinical red tape**.
 
+---
+
+## Insight: Many Don’t Feel Protected by Anonymity
+
+When asked if they felt protected by anonymity when seeking mental health care at work, a significant number of respondents said **No** or **Don’t know**.
+
+This shows that even when systems claim to offer confidentiality, **people don’t trust it**. It underscores the importance of truly anonymous, decentralized solutions like HypnoNeuro — where identity is never tied to employer systems or HR records.
+
