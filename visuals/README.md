@@ -28,3 +28,11 @@ A large portion of respondents — nearly one-third — reported that they **don
 This lack of awareness isn’t just a communication issue — it reflects a deeper disconnect between systems and the people they claim to support.
 
 Decentralized platforms like HypnoNeuro provide direct, user-controlled access that doesn’t depend on workplace clarity or HR gatekeeping.
+
+---
+
+## Insight: Fear of Supervisor Judgment Limits Openness
+
+When asked if they feel comfortable discussing mental health with their supervisor, many respondents said **No** or **Some of them**, indicating hesitancy or fear of judgment.
+
+This confirms a clear lack of psychological safety in the workplace, and strengthens the case for **anonymous, non-employer-linked support systems** like HypnoNeuro — where help is available without the need for uncomfortable disclosures.
