@@ -19,3 +19,12 @@ Only about one-third of respondents reported that their employer provides mental
 
 This shows a **systemic information gap**, lack of trust, or actual lack of access — all of which highlight the need for **private, user-controlled mental health systems** like HypnoNeuro, where support isn't dependent on your job.
 
+---
+
+## Insight: Many Don’t Even Know What Help Exists
+
+A large portion of respondents — nearly one-third — reported that they **don’t know** what mental health care options their employer provides.
+
+This lack of awareness isn’t just a communication issue — it reflects a deeper disconnect between systems and the people they claim to support.
+
+Decentralized platforms like HypnoNeuro provide direct, user-controlled access that doesn’t depend on workplace clarity or HR gatekeeping.
