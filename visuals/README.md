@@ -61,3 +61,11 @@ When asked if they felt protected by anonymity when seeking mental health care a
 
 This shows that even when systems claim to offer confidentiality, **people don’t trust it**. It underscores the importance of truly anonymous, decentralized solutions like HypnoNeuro — where identity is never tied to employer systems or HR records.
 
+---
+
+## Insight: Time Off for Mental Health Still Feels Risky
+
+When asked how easy it would be to take mental health leave at work, many respondents said it would be **somewhat** or **very difficult**.
+
+This shows that policies on paper may not translate into psychological safety in practice. HypnoNeuro’s value lies in letting people access care *without having to take time off, explain themselves, or face HR stigma.*
+
