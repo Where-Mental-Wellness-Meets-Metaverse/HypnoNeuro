@@ -69,3 +69,11 @@ When asked how easy it would be to take mental health leave at work, many respon
 
 This shows that policies on paper may not translate into psychological safety in practice. HypnoNeuro’s value lies in letting people access care *without having to take time off, explain themselves, or face HR stigma.*
 
+---
+
+## Insight: Suicide Death Rates Reveal Deep Disparities
+
+CDC data shows extreme differences in suicide rates based on sex, race/ethnicity, and age. For example, males die by suicide nearly **four times more often than females**, and American Indian/Alaska Native populations face the **highest rate** among all racial groups.
+
+Older adults and young people alike show elevated risks, revealing that suicide isn’t confined to any one demographic. These disparities demand accessible, stigma-free, and culturally responsive support — which decentralized platforms like HypnoNeuro are uniquely positioned to provide.
+
