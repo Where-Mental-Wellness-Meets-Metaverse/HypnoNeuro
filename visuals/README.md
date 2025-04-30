@@ -76,3 +76,11 @@ CDC data shows extreme differences in suicide rates based on sex, race/ethnicity
 
 Older adults and young people alike show elevated risks, revealing that suicide isn’t confined to any one demographic. These disparities demand accessible, stigma-free, and culturally responsive support — which decentralized platforms like HypnoNeuro are uniquely positioned to provide.
 
+---
+
+### 📊 Chart: Mental Health Treatment Summary
+
+![Treatment Summary Chart](treatment_summary.png)
+
+This chart shows the distribution of responses to whether participants have sought mental health treatment. It highlights the high percentage of individuals who have **never received care**, despite reporting symptoms — supporting the urgent need for accessible, stigma-free options like HypnoNeuro.
+
