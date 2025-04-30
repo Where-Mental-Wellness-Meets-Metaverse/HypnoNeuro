@@ -45,3 +45,11 @@ When asked if they feel comfortable discussing mental health with their coworker
 
 This shows that stigma isn’t just vertical (top-down) but lateral — even peers may not feel safe. HypnoNeuro’s anonymous design eliminates social risk by giving users a private space to explore healing without fear of workplace judgment.
 
+---
+
+## Insight: Family History Doesn’t Guarantee Action
+
+Even among respondents who reported a **family history of mental illness**, many had **not sought treatment** themselves.
+
+This shows that awareness alone isn't enough — the system still fails to engage or earn trust from at-risk individuals. Platforms like HypnoNeuro must meet people where they are, offering care that is **private, stigma-free, and disconnected from clinical red tape**.
+
