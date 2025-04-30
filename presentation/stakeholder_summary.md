@@ -36,7 +36,7 @@ Our data shows that:
 
 We analyzed national surveys and CDC data to validate the need for HypnoNeuro.  
 You can explore full visualizations here:  
-📁 [`/visuals/`](../visuals/README.md)
+📁 [View Data Visuals](../visuals/README.md)
 
 ---
 
