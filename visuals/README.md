@@ -36,3 +36,12 @@ Decentralized platforms like HypnoNeuro provide direct, user-controlled access t
 When asked if they feel comfortable discussing mental health with their supervisor, many respondents said **No** or **Some of them**, indicating hesitancy or fear of judgment.
 
 This confirms a clear lack of psychological safety in the workplace, and strengthens the case for **anonymous, non-employer-linked support systems** like HypnoNeuro — where help is available without the need for uncomfortable disclosures.
+
+---
+
+## Insight: Coworker Stigma Remains a Barrier
+
+When asked if they feel comfortable discussing mental health with their coworkers, many respondents said **No** or **Some of them** — mirroring the hesitation seen with supervisors.
+
+This shows that stigma isn’t just vertical (top-down) but lateral — even peers may not feel safe. HypnoNeuro’s anonymous design eliminates social risk by giving users a private space to explore healing without fear of workplace judgment.
+
