@@ -64,6 +64,5 @@ We're seeking:
 *Created with purpose by Dr. Meg Montañez Davenport*  
 🧬 Where Mental Wellness Meets the Metaverse.
 
-📄 [View Stakeholder Summary](./presentation/stakeholder_summary.md)
-
+[📊 View Data Visuals](https://github.com/megmontanez2000/HypnoNeuro/blob/main/visuals/README.md)
 
