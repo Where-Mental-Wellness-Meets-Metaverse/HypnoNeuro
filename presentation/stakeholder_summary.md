@@ -42,11 +42,14 @@ Our data shows that:
 
 - ![Anonymity](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Perceived%20Protection%20by%20Anonymity.png)
 
-![Suicide Rates by Sex](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Suicide%20Rates%20by%20Sex.png)
+### 📊 Suicide Demographics (CDC)
 
-- ![Suicide Rates by Age](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Suicide%20Rates%20by%20Age.png)
+- ![Suicide by Sex](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/suicide_by_sex.png)
+  
+- ![Suicide by Age](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/suicide_by_age.png)
+  
+- ![Suicide by Race](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/suicide_by_race.png)
 
-- ![Suicide Rates by Race](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Suicide%20Rates%20by%20Race%3AEthnicity.png)
 
 
 
