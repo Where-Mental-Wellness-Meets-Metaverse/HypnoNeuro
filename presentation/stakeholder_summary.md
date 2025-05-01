@@ -35,7 +35,6 @@ Our data shows that:
 ## 📊 Data-Driven Insights
 
 We analyzed national and workplace survey data to validate the need for decentralized care:
-
 - ![Treatment Summary](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/treatment_summary.png)
 - [🏢 Employer Support – Only 1 in 3 jobs offer mental health coverage](https://github.com/megmontanez2000/HypnoNeuro/blob/main/visuals/employer_benefits.png)
 - [🔐 Disclosure Concerns – Many fear speaking to coworkers or supervisors](https://github.com/megmontanez2000/HypnoNeuro/blob/main/visuals/disclosure_supervisor.png)
