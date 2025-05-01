@@ -34,9 +34,13 @@ Our data shows that:
 
 ## 📊 Data-Driven Insights
 
-We analyzed national surveys and CDC data to validate the need for HypnoNeuro.  
-You can explore full visualizations here:  
-[View Data Visuals](https://github.com/megmontanez2000/HypnoNeuro/blob/main/visuals/README.md)
+We analyzed national and workplace survey data to validate the need for decentralized care:
+
+- [📊 Treatment Summary – 50%+ have never received mental health treatment](https://github.com/megmontanez2000/HypnoNeuro/blob/main/visuals/treatment_summary.png)
+- [🏢 Employer Support – Only 1 in 3 jobs offer mental health coverage](https://github.com/megmontanez2000/HypnoNeuro/blob/main/visuals/employer_benefits.png)
+- [🔐 Disclosure Concerns – Many fear speaking to coworkers or supervisors](https://github.com/megmontanez2000/HypnoNeuro/blob/main/visuals/disclosure_supervisor.png)
+- [🕵️ Anonymity & Leave – People don’t feel safe or supported using benefits](https://github.com/megmontanez2000/HypnoNeuro/blob/main/visuals/anonymity_leave.png)
+- [⚠️ Suicide Rates (CDC) – Stark disparities by sex, age, and race](https://github.com/megmontanez2000/HypnoNeuro/blob/main/visuals/suicide_summary.png)
 
 ---
 
