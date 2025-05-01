@@ -34,14 +34,13 @@ Our data shows that:
 
 ## 📊 Data-Driven Insights
 
-### 📊 Visual Insights
-
 - ![Treatment Summary](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/treatment_summary.png)
 - ![Employer Benefits](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Employer%20Mental%20Health%20Benefits%20Access.png)
 - ![Disclosure to Supervisor](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Comfort%20Discussing%20Mental%20Health%20with%20Supervisor.png)
 - ![Anonymity](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Perceived%20Protection%20by%20Anonymity.png)
 - ![Suicide by Race](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Suicide%20Rates%20by%20Race%3AEthnicity.png)
 - ![Suicide by Sex](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Suicide%20Rates%20by%20Sex.png)
+
 
 
 ---
