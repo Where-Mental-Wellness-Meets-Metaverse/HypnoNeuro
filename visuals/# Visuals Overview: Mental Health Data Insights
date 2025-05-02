@@ -1,86 +1,76 @@
-This folder will contain visualizations and charts based on SQL query results.
+# Visuals Overview: Mental Health Data Insights
+
+This folder contains data visualizations and insights supporting the need for HypnoNeuro — a decentralized, gamified, and trauma-informed mental wellness platform. These visuals are based on national surveys, CDC suicide data, and self-reported mental health access patterns.
+
+Each chart is followed by a short explanation of its relevance to the platform’s design and purpose.
 
 ---
 
-## Insight: Why This Chart Matters
+## 🧩 Section 1: Gaps in Workplace Mental Health Support
 
-Even in the tech industry — where access to healthcare is relatively high — nearly **half of respondents have not sought mental health treatment**.
+### 📊 Awareness of Employer Mental Health Care Options
+Even in industries with high healthcare access, nearly one-third of respondents said they **don’t know** what their employer offers for mental health support.  
+➡️ This reflects a deeper disconnect between employees and the systems that claim to support them.
 
-This suggests that the real barriers may not be access, but rather **stigma**, **shame**, and a lack of safe spaces for disclosure.
+### 📊 Employer Mental Health Benefits Access
+Only about one-third of respondents reported their employer provides mental health benefits.  
+➡️ This highlights a systemic **information gap or actual lack of access** — reinforcing the need for user-controlled mental health platforms like HypnoNeuro.
 
-It reinforces the need for **decentralized, anonymous systems** like HypnoNeuro that allow individuals to seek support without fear of judgment.
+### 📊 Comfort Discussing Mental Health with Coworkers
+Many respondents said **“No”** or **“Some of them”** when asked about comfort with coworkers.  
+➡️ Stigma exists laterally — even among peers — validating the need for anonymous healing spaces.
 
----
-
-## Insight: Employer Support Isn’t Guaranteed
-
-Only about one-third of respondents reported that their employer provides mental health benefits. Another third said “No,” and the rest weren’t even sure.
-
-This shows a **systemic information gap**, lack of trust, or actual lack of access — all of which highlight the need for **private, user-controlled mental health systems** like HypnoNeuro, where support isn't dependent on your job.
-
----
-
-## Insight: Many Don’t Even Know What Help Exists
-
-A large portion of respondents — nearly one-third — reported that they **don’t know** what mental health care options their employer provides.
-
-This lack of awareness isn’t just a communication issue — it reflects a deeper disconnect between systems and the people they claim to support.
-
-Decentralized platforms like HypnoNeuro provide direct, user-controlled access that doesn’t depend on workplace clarity or HR gatekeeping.
+### 📊 Comfort Discussing Mental Health with Supervisor
+Fear of supervisor judgment limits openness.  
+➡️ A clear lack of psychological safety in the workplace supports our design for **non-employer-linked support**.
 
 ---
 
-## Insight: Fear of Supervisor Judgment Limits Openness
+## 🧩 Section 2: Structural & Psychological Barriers to Care
 
-When asked if they feel comfortable discussing mental health with their supervisor, many respondents said **No** or **Some of them**, indicating hesitancy or fear of judgment.
+### 📊 Perceived Protection by Anonymity
+Many respondents reported they **did not feel protected** by workplace anonymity claims.  
+➡️ This shows a lack of trust in institutional confidentiality and supports HypnoNeuro’s **Web3-based anonymous model**.
 
-This confirms a clear lack of psychological safety in the workplace, and strengthens the case for **anonymous, non-employer-linked support systems** like HypnoNeuro — where help is available without the need for uncomfortable disclosures.
+### 📊 Perceived Ease of Taking Mental Health Leave
+Most respondents said it would be **somewhat** or **very difficult** to take time off for mental health.  
+➡️ Policies do not equal psychological safety — which is why HypnoNeuro provides access without time-off disclosures.
 
----
+### 📊 Family History vs. Treatment Seeking Behavior
+Even those with a family history of mental illness had **not sought treatment themselves**.  
+➡️ This reveals that awareness alone isn’t enough — we must meet users where they are with stigma-free, low-barrier access.
 
-## Insight: Coworker Stigma Remains a Barrier
-
-When asked if they feel comfortable discussing mental health with their coworkers, many respondents said **No** or **Some of them** — mirroring the hesitation seen with supervisors.
-
-This shows that stigma isn’t just vertical (top-down) but lateral — even peers may not feel safe. HypnoNeuro’s anonymous design eliminates social risk by giving users a private space to explore healing without fear of workplace judgment.
-
----
-
-## Insight: Family History Doesn’t Guarantee Action
-
-Even among respondents who reported a **family history of mental illness**, many had **not sought treatment** themselves.
-
-This shows that awareness alone isn't enough — the system still fails to engage or earn trust from at-risk individuals. Platforms like HypnoNeuro must meet people where they are, offering care that is **private, stigma-free, and disconnected from clinical red tape**.
+### 📊 Treatment Memory Discrepancy (50% Gap)
+Roughly **half of respondents** who may have received care **don’t recall or acknowledge it**.  
+➡️ This supports the need for **trauma-informed design** and **gamified re-engagement** strategies.
 
 ---
 
-## Insight: Many Don’t Feel Protected by Anonymity
+## 🧩 Section 3: Suicide Rates (Urgency & Justification)
 
-When asked if they felt protected by anonymity when seeking mental health care at work, a significant number of respondents said **No** or **Don’t know**.
+### 📊 Suicide Rates by Age (2024)
+Youth and older adults are among the most at-risk populations.  
+➡️ HypnoNeuro’s layered therapy rooms target age-specific triggers and healing styles.
 
-This shows that even when systems claim to offer confidentiality, **people don’t trust it**. It underscores the importance of truly anonymous, decentralized solutions like HypnoNeuro — where identity is never tied to employer systems or HR records.
+### 📊 Suicide Rates by Sex (2024)
+Males die by suicide nearly **4x** more than females.  
+➡️ This disparity requires **gender-sensitive** and anonymous solutions to reduce stigma in help-seeking behavior.
 
----
-
-## Insight: Time Off for Mental Health Still Feels Risky
-
-When asked how easy it would be to take mental health leave at work, many respondents said it would be **somewhat** or **very difficult**.
-
-This shows that policies on paper may not translate into psychological safety in practice. HypnoNeuro’s value lies in letting people access care *without having to take time off, explain themselves, or face HR stigma.*
-
----
-
-## Insight: Suicide Death Rates Reveal Deep Disparities
-
-CDC data shows extreme differences in suicide rates based on sex, race/ethnicity, and age. For example, males die by suicide nearly **four times more often than females**, and American Indian/Alaska Native populations face the **highest rate** among all racial groups.
-
-Older adults and young people alike show elevated risks, revealing that suicide isn’t confined to any one demographic. These disparities demand accessible, stigma-free, and culturally responsive support — which decentralized platforms like HypnoNeuro are uniquely positioned to provide.
+### 📊 Suicide Rates by Race & Ethnicity (2024)
+American Indian/Alaska Native populations face the **highest suicide rates**.  
+➡️ Highlights the need for **culturally competent, accessible care** unconstrained by mainstream systems.
 
 ---
 
-### 📊 Chart: Mental Health Treatment Summary
+## 🧩 Visual Summary
 
-![Treatment Summary Chart](treatment_summary.png)
+### 📊 Mental Health Data Insights Overview
+A visual dashboard summary of key findings that inform the structure and urgency of the HypnoNeuro app.
 
-This chart shows the distribution of responses to whether participants have sought mental health treatment. It highlights the high percentage of individuals who have **never received care**, despite reporting symptoms — supporting the urgent need for accessible, stigma-free options like HypnoNeuro.
+---
 
+### 💡 About HypnoNeuro
+
+**HypnoNeuro** is a gamified, decentralized mental wellness platform that empowers individuals to access trauma-informed care **without stigma, risk of disclosure, or clinical intimidation**. By combining Web3 privacy tools, NFT-based incentives, and evidence-backed therapy flows, it reimagines what healing can look like for vulnerable populations.
+
+*Created with purpose by Dr. Meg Montañez Davenport*
