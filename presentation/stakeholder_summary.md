@@ -4,70 +4,67 @@
 
 ---
 
-## 🧠 Problem
+## 🧠 The Problem
 
-Millions still avoid seeking mental health care due to:
+Millions still avoid mental health care due to:
 
 - ❌ Stigma, shame, or fear of judgment  
-- ❌ Lack of anonymity or cultural safety  
+- ❌ Lack of anonymity or culturally safe care  
 - ❌ Inadequate workplace support or insurance  
-- ❌ Side effects or distrust of pharmaceutical treatment
+- ❌ Distrust of pharmaceutical-based treatments
 
-Our data shows that:
-- Over 50% of people with symptoms have never sought treatment  
-- Only 1 in 3 workplaces offer mental health benefits  
-- Suicide rates are rising, with deep disparities by age, race, and gender
+### 📉 The Data Speaks
+
+- Over **50%** of people with symptoms have never sought treatment  
+- Only **1 in 3 workplaces** offer mental health benefits  
+- Suicide rates continue to rise — with major disparities by age, race, and gender
 
 ---
 
-## 💡 Solution: HypnoNeuro
+## 💡 The Solution: HypnoNeuro
 
-**HypnoNeuro** is a Web3-powered, gamified platform that provides:
+**HypnoNeuro** is a Web3-powered, gamified platform that delivers:
 
-- 🧬 Private, anonymous access to trauma-informed care  
-- 🎮 Gamified healing journeys with token-based incentives  
-- 🌍 Decentralized architecture not tied to employers or insurers  
-- 🧠 Naturopathic, non-pharma-first methodologies  
-- 🔒 Blockchain-based user control & consent
+- 🧬 **Private, anonymous access** to trauma-informed care  
+- 🎮 **Gamified healing journeys** with token-based rewards  
+- 🌍 **Decentralized architecture**, not tied to employers or insurers  
+- 🌿 **Naturopathic, non-pharma-first** methodologies  
+- 🔒 **Blockchain-based identity, consent, and data control**
 
 ---
 
 ## 📊 Data-Driven Insights
 
-- ![Treatment Summary](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/treatment_summary.png)
+All visuals below are sourced from workplace surveys, CDC suicide data, and national mental health reports.  
+They validate HypnoNeuro’s approach to anonymity, gamification, and decentralized access.
 
-- ![Employer Benefits](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Employer%20Mental%20Health%20Benefits%20Access.png)
+### 📈 Treatment & Access
 
-- ![Disclosure to Supervisor](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Comfort%20Discussing%20Mental%20Health%20with%20Supervisor.png)
+- ![Treatment Summary](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/treatment_memory_discrepancy_50_percent_gap.png)  
+- ![Employer Benefits](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/employer_mental_health_benefits_access.png)  
+- ![Disclosure to Supervisor](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/comfort_discussing_with_supervisor.png)  
+- ![Anonymity](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/perceived_protection_by_anonymity.png)
 
-- ![Anonymity](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/Perceived%20Protection%20by%20Anonymity.png)
+### 🧨 Suicide Risk Disparities (CDC)
 
-### 📊 Suicide Demographics (CDC)
-
-- ![Suicide by Sex](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/suicide_by_sex.png)
-  
-- ![Suicide by Age](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/suicide_by_age.png)
-  
-- ![Suicide by Race](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/suicide_by_race.png)
-
-
-
-
-
+- ![Suicide by Sex](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/suicide_rates_by_sex_2024.png)  
+- ![Suicide by Age](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/suicide_rates_by_age_2024.png)  
+- ![Suicide by Race](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/suicide_rates_by_race_ethnicity_2024.png)
 
 ---
 
-## 🔜 Next Steps
+## 🔜 What’s Next
 
-We are currently seeking:
+We are actively seeking:
 
-- 🤝 Strategic partners & early funders  
-- 🧠 Mental health professionals to pilot the platform  
-- 🛠️ Technical collaborators (blockchain, analytics, AI)
+- 🤝 **Strategic partnerships & early funders**  
+- 🧠 **Mental health professionals** to pilot the platform  
+- 🛠️ **Technical collaborators** (blockchain, analytics, AI)
 
-**Let’s build the future of mental health access — together.**
+> Join us in transforming mental health care through technology, privacy, and healing rooted in autonomy.
 
 ---
 
-*Contact: Dr. Meg Montañez Davenport | hello@hypnosispsych.com*  
+**Contact:** Dr. Meg Montañez Davenport  
+📧 hello@hypnosispsych.com  
 🧬 *Where Mental Wellness Meets the Metaverse.*
