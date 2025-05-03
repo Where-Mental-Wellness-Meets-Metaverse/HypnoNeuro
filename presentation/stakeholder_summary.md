@@ -65,6 +65,9 @@ We are actively seeking:
 
 ---
 
-**Contact:** Dr. Meg Montañez Davenport  
-📧 hello@hypnosispsych.com  
+✉️ **Contact:** Dr. Meg Montañez Davenport  
+[dr.meg_data_scientist@gmail.com](mailto:dr.meg_data_scientist@gmail.com)
+
+
+
 🧬 *Where Mental Wellness Meets the Metaverse.*
