@@ -21,11 +21,12 @@ Despite growing awareness, millions still avoid mental health care due to:
 
 We analyzed national and workplace survey data to validate the need for decentralized care:
 
-- [Treatment Summary](visuals/README.md) – 50%+ have never received mental health treatment
-- [Employer Support](visuals/README.md) – Only 1 in 3 jobs offer mental health coverage
-- [Disclosure Concerns](visuals/README.md) – Many fear speaking to coworkers or supervisors
-- [Anonymity & Leave](visuals/README.md) – People don’t feel safe or supported using benefits
-- [Suicide Rates (CDC)](visuals/README.md) – Stark disparities by sex, age, and race
+- [Treatment Summary](visuals/visuals_overview_mental_health_data_insights.md) - 50%+ have never received mental health treatment
+- [Employer Support](visuals/visuals_overview_mental_health_data_insights.md) - Only 1 in 3 jobs offer mental health coverage
+- [Disclosure Concerns](visuals/visuals_overview_mental_health_data_insights.md) - Many fear speaking to coworkers or supervisors
+- [Anonymity & Leave](visuals/visuals_overview_mental_health_data_insights.md) - People don’t feel safe or supported using benefits
+- [Suicide Rates (CDC)](visuals/visuals_overview_mental_health_data_insights.md) - Stark disparities by sex, age, and race
+
 
 ---
 
