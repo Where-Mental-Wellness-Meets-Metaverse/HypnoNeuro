@@ -34,4 +34,12 @@ This model avoids premature pathologizing and supports sustainable healing pathw
 
 ---
 
-> **HypnoNeuro stands at the intersection of ethical care, scientific integrity, and technological innovation — delivering decentralized mental wellness without the risk of overdiagnosis or overtreatment.**
+| Diagnostic Area        | Objective Test Exists? | False Positives | PPV Reliability |
+| ---------------------- | ---------------------- | --------------- | --------------- |
+| Diabetes (A1C test)    | ✅ Yes                  | Low             | High            |
+| Iron Deficiency Anemia | ✅ Yes (Ferritin test)  | Low             | High            |
+| Hypothyroidism         | ✅ Yes (TSH test)       | Low             | High            |
+| Depression (DSM-5)     | ❌ No                   | High            | Low             |
+| Bipolar Disorder       | ❌ No                   | High            | Low             |
+| Schizophrenia          | ❌ No                   | High            | Low             |
+
