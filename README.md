@@ -18,29 +18,40 @@ Despite growing awareness, millions still avoid mental health care due to:
 
 ---
 
-## 🔍 Data-Backed Insights
+## 🧠 Data-Backed Insights
 
 We analyzed national and workplace survey data to validate the need for decentralized care:
 
-- [Treatment Summary](visuals/visuals_overview_mental_health_data_insights.md) - 50%+ have never received mental health treatment
-- [Employer Support](visuals/visuals_overview_mental_health_data_insights.md) - Only 1 in 3 jobs offer mental health coverage
-- [Disclosure Concerns](visuals/visuals_overview_mental_health_data_insights.md) - Many fear speaking to coworkers or supervisors
-- [Anonymity & Leave](visuals/visuals_overview_mental_health_data_insights.md) - People don’t feel safe or supported using benefits
-- [Suicide Rates (CDC)](visuals/visuals_overview_mental_health_data_insights.md) - Stark disparities by sex, age, and race
+- **[Treatment Summary](visuals/visuals_overview_mental_health_data_insights.md)**  
+  50%+ have never received mental health treatment
 
+- **[Employer Support](visuals/visuals_overview_mental_health_data_insights.md)**  
+  Only 1 in 3 jobs offer mental health coverage
 
-🧠 **Naturopathic Framework Behind HypnoNeuro**
+- **[Disclosure Concerns](visuals/visuals_overview_mental_health_data_insights.md)**  
+  Many fear speaking to coworkers or supervisors
 
-This project integrates multiple core elements of naturopathic mental health care to support emotional regulation, trauma recovery, and long-term healing:
+- **[Anonymity & Leave](visuals/visuals_overview_mental_health_data_insights.md)**  
+  People don’t feel safe or supported using benefits
 
-1. **Hypnosis**  
-   Facilitates present-moment awareness and nervous system regulation. Central to addressing trauma, anxiety, and depression while helping users build mindfulness as a daily skill.
+- **[Suicide Rates (CDC)](visuals/visuals_overview_mental_health_data_insights.md)**  
+  Stark disparities by sex, age, and race
 
-2. **Orthomolecular Approaches**  
-   Supports mental health by correcting both biochemical insufficiencies and overloads. This ensures the internal environment supports cognitive clarity and emotional resilience.
+---
 
-3. **Inner Child Healing**  
-   Uses guided hypnosis and visualization to reconnect with and repair early-life emotional wounds, fostering self-trust and long-term identity integration.
+## 🧬 Naturopathic Framework Behind HypnoNeuro
+
+This project integrates core elements of naturopathic mental health to support emotional regulation, trauma recovery, and long-term healing:
+
+### 1. Hypnosis  
+Facilitates present-moment awareness and nervous system regulation. Central to addressing trauma, anxiety, and depression while helping users build mindfulness as a daily skill.
+
+### 2. Orthomolecular Approaches  
+Supports mental health by correcting both biochemical insufficiencies and overloads. This ensures the internal environment supports cognitive clarity and emotional resilience.
+
+### 3. Inner Child Healing  
+Uses guided hypnosis and visualization to reconnect with and repair early-life emotional wounds, fostering self-trust and long-term identity integration.
+
 
 Together, these elements form the therapeutic core of HypnoNeuro’s immersive system — bridging natural medicine with decentralized technology to transform care delivery.
 
