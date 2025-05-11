@@ -15,3 +15,16 @@ This module explores predictive modeling for depression using open-access mental
 ## Ethics & Privacy
 - All datasets are anonymized and publicly available
 - No real-time user flagging in MVP
+
+- ## Depression Medication Loop (Storyboard)
+
+**Goal:** Model and visualize the clinical journey of patients experiencing depression through diagnosis, treatment, and medication refills.
+
+### Loop Phases:
+1. **Symptoms** – Patient reports mental health concerns (from surveys, notes, or encounters)
+2. **PHQ-9 Assessment** – Structured depression scale or equivalent observation
+3. **Diagnosis** – ICD-10 depression code confirmed (e.g., F32.9)
+4. **Medication** – Prescription issued (e.g., SSRIs)
+5. **Refill/Follow-up** – Patterns in continuation or discontinuation
+6. **Loop Recurrence** – Signs of persistent or worsening depression
+
