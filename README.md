@@ -22,20 +22,12 @@ Despite growing awareness, millions still avoid mental health care due to:
 
 We analyzed national and workplace survey data to validate the need for decentralized care:
 
-- **[Treatment Summary](visuals/visuals_overview_mental_health_data_insights.md)**  
-  50%+ have never received mental health treatment
 
-- **[Employer Support](visuals/visuals_overview_mental_health_data_insights.md)**  
-  Only 1 in 3 jobs offer mental health coverage
-
-- **[Disclosure Concerns](visuals/visuals_overview_mental_health_data_insights.md)**  
-  Many fear speaking to coworkers or supervisors
-
-- **[Anonymity & Leave](visuals/visuals_overview_mental_health_data_insights.md)**  
-  People don’t feel safe or supported using benefits
-
-- **[Suicide Rates (CDC)](visuals/visuals_overview_mental_health_data_insights.md)**  
-  Stark disparities by sex, age, and race
+- [🧾 Treatment Summary](https://github.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/blob/main/visuals/treatment_summary.png) – 50%+ have never received mental health treatment
+- [💼 Employer Support](https://github.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/blob/main/visuals/employer_support.png) – Only 1 in 3 jobs offer mental health coverage
+- [🤐 Disclosure Concerns](https://github.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/blob/main/visuals/disclosure_concerns.png) – Many fear speaking to coworkers or supervisors
+- [🙈 Anonymity & Leave](https://github.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/blob/main/visuals/anonymity_and_leave.png) – People don’t feel safe or supported using benefits
+- [📊 Suicide Rates (CDC)](https://github.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/blob/main/visuals/suicide_rates_cdc.png) – Stark disparities by sex, age, and race
 
 ---
 
