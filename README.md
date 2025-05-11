@@ -13,6 +13,7 @@ Despite growing awareness, millions still avoid mental health care due to:
 - **Mistrust of doctors** and conventional medication-based treatments
 - **Lack of access to care**, especially for underserved or high-risk populations
 
+
 **HypnoNeuro** provides a solution by leveraging **blockchain privacy**, **NFT-based incentives**, and **decentralized tools** to make healing accessible **on your terms**.
 
 ---
@@ -28,7 +29,7 @@ We analyzed national and workplace survey data to validate the need for decentra
 - [Suicide Rates (CDC)](visuals/visuals_overview_mental_health_data_insights.md) - Stark disparities by sex, age, and race
 
 
-🧠 Naturopathic Framework Behind HypnoNeuro
+🧠 **Naturopathic Framework Behind HypnoNeuro**
 
 This project integrates multiple core elements of naturopathic mental health care to support emotional regulation, trauma recovery, and long-term healing:
 
