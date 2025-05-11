@@ -40,6 +40,9 @@ We analyzed national and workplace survey data to validate the need for decentra
 
 ---
 
+- [Depression Prediction Module](mental_health_models/depression_prediction/README.md) – Research + early modeling for depressive episode risk
+
+
 ## 🌐 Powered By
 
 - Google Sheets, SQL, and GitHub for analysis
