@@ -16,7 +16,8 @@ This module explores predictive modeling for depression using open-access mental
 - All datasets are anonymized and publicly available
 - No real-time user flagging in MVP
 
-- ## Depression Medication Loop (Storyboard)
+ 
+ ## Depression Medication Loop (Storyboard)
 
 **Goal:** Model and visualize the clinical journey of patients experiencing depression through diagnosis, treatment, and medication refills.
 
