@@ -28,6 +28,22 @@ We analyzed national and workplace survey data to validate the need for decentra
 - [Suicide Rates (CDC)](visuals/visuals_overview_mental_health_data_insights.md) - Stark disparities by sex, age, and race
 
 
+🧠 Naturopathic Framework Behind HypnoNeuro
+
+This project integrates multiple core elements of naturopathic mental health care to support emotional regulation, trauma recovery, and long-term healing:
+
+1. **Hypnosis**  
+   Facilitates present-moment awareness and nervous system regulation. Central to addressing trauma, anxiety, and depression while helping users build mindfulness as a daily skill.
+
+2. **Orthomolecular Approaches**  
+   Supports mental health by correcting both biochemical insufficiencies and overloads. This ensures the internal environment supports cognitive clarity and emotional resilience.
+
+3. **Inner Child Healing**  
+   Uses guided hypnosis and visualization to reconnect with and repair early-life emotional wounds, fostering self-trust and long-term identity integration.
+
+Together, these elements form the therapeutic core of HypnoNeuro’s immersive system — bridging natural medicine with decentralized technology to transform care delivery.
+
+
 ---
 
 ## 📁 Repository Structure
