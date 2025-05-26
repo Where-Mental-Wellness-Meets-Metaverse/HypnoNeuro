@@ -1,3 +1,6 @@
+🌿 Amino Acids vs Pharmaceuticals (Reordered with Biochemical Rationale)
+
+
 | **Condition(s)** | **Top Pharmaceuticals** | **Reported Deaths (2020–2024)** | **Neurotransmitter System** | **How Amino Acids Rebuild the System** | **Amino Acid Support** |
 |------------------|--------------------------|----------------------------------|------------------------------|-----------------------------------------|-------------------------|
 | Depression, Anxiety, Sleep Issues | Lexapro, Prozac, Zoloft | 9,450+ (suicide/overdose, FAERS) | Serotonin | L-Tryptophan and 5-HTP serve as direct precursors to serotonin, supporting its production and improving mood, sleep, and emotional balance naturally. | L-Tryptophan, 5-HTP |
