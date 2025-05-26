@@ -11,5 +11,5 @@
 
 
 
-### 🧠 Note:
-This chart does not position pharmaceuticals as the baseline or preferred option. Instead, it elevates **orthomolecular and naturopathic medicine** as the *first line of support*, offering lasting results and fewer risks.
+🧠 Note:
+This chart does not position pharmaceuticals as the baseline or preferred option. While psychiatric medications may temporarily alter neurotransmitter activity, they do not rebuild or restore neurotransmitter systems. In contrast, amino acid, nutrient, and orthomolecular therapies provide the raw biochemical building blocks necessary to regenerate these systems at the root — making them the only approach that supports long-term healing and functional recovery.
