@@ -1,8 +1,15 @@
-### 🧠 Amino Acids vs Pharmaceuticals Comparison
+## 🌿 Amino Acids vs Pharmaceuticals – A Naturopathic Comparison
 
-| **Neurotransmitter System**   | **Condition(s) Treated**                                  | **Amino Acid/Nutrient Used**                     | **Clinical Effect or Benefit**                               | **Risks/Notes/Contraindications**                                                         | **Pharmaceutical Alternative**        |
-|-------------------------------|------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------|
-| **Serotonin**                 | Depression, Anxiety, Sleep Issues                          | L-Tryptophan, 5-HTP                              | Mood stability, improved sleep, reduced anxiety              | Risk of serotonin syndrome with SSRIs, nausea with 5-HTP, avoid in liver cirrhosis        | SSRIs (e.g., Lexapro)                |
-| **Dopamine (Catecholamines)** | Depression, Fatigue, Lack of Motivation, ADHD             | L-Tyrosine, L-Phenylalanine                      | Increased energy, cognition, and motivation                  | Avoid in mania, high blood pressure, and Graves' disease                                  | Ritalin, Adderall, Wellbutrin        |
-| **GABA**                      | Anxiety, Stress, Sleep Disorders                            | GABA, Theanine, Taurine                          | Relaxation, reduced anxiety, improved sleep                  | Avoid in hypotension, caution with doses >500 mg                                         | Benzodiazepines (e.g., Xanax, Valium) |
-| **Endorphins**                | Emotional and Physical Pain, Grief                         | D-Phenylalanine (DPA), DL-Phenylalanine (DLPA)   | Enhanced mood, reduced emotional and physical pain           | Avoid DLPA in melanoma; use during daytime                                                | Opiates (e.g., morphine)             |
+This table reframes amino acid therapy as the *primary method* for neurotransmitter support and mental wellness. Pharmaceuticals are included only for contrast, not recommendation.
+
+| **Neurotransmitter System** | **Condition(s)** | **Primary Naturopathic Support** | **Pharmaceutical Comparison** | **Why Natural First?** |
+|-----------------------------|------------------|----------------------------------|-------------------------------|-------------------------|
+| **Serotonin**               | Depression, Anxiety, Sleep Issues | L-Tryptophan, 5-HTP | SSRIs (e.g., Lexapro) | Fewer side effects, supports sleep, safe long-term, body-ready precursors |
+| **Dopamine (Catecholamines)** | Fatigue, Low Motivation, ADHD | L-Tyrosine, L-Phenylalanine | Ritalin, Adderall, Wellbutrin | Improves focus and energy without addiction, jitteriness, or crashes |
+| **GABA**                    | Stress, Panic, Insomnia | GABA, Theanine, Taurine | Benzodiazepines (e.g., Xanax, Valium) | Non-addictive, calms excitatory signals without sedation or memory impact |
+| **Endorphins**              | Emotional or Physical Pain, Grief | D-Phenylalanine (DPA), DLPA | Opiates (e.g., morphine) | Boosts natural reward chemistry, safe alternative to addictive pain meds |
+
+---
+
+### 🧠 Note:
+This chart does not position pharmaceuticals as the baseline or preferred option. Instead, it elevates **orthomolecular and naturopathic medicine** as the *first line of support*, offering lasting results and fewer risks.
