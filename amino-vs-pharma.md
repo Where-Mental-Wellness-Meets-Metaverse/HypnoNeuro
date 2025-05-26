@@ -1,4 +1,4 @@
-🌿 Amino Acids vs Pharmaceuticals (Reordered with Biochemical Rationale)
+# 🌿 Amino Acids vs Pharmaceuticals
 
 
 | **Condition(s)** | **Top Pharmaceuticals** | **Reported Deaths (2020–2024)** | **Neurotransmitter System** | **How Amino Acids Rebuild the System** | **Amino Acid Support** |
