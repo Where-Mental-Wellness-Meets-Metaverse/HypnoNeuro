@@ -1,13 +1,10 @@
-## 🌿 Amino Acids vs Pharmaceuticals – Neurotransmitter-Based Comparison
+| **Condition(s)** | **Top Pharmaceuticals** | **Reported Deaths (2020–2024)** | **Neurotransmitter System** | **How Amino Acids Rebuild the System** | **Amino Acid Support** |
+|------------------|--------------------------|----------------------------------|------------------------------|-----------------------------------------|-------------------------|
+| Depression, Anxiety, Sleep Issues | Lexapro, Prozac, Zoloft | 9,450+ (suicide/overdose, FAERS) | Serotonin | L-Tryptophan and 5-HTP serve as direct precursors to serotonin, supporting its production and improving mood, sleep, and emotional balance naturally. | L-Tryptophan, 5-HTP |
+| Fatigue, Low Motivation, ADHD | Adderall, Ritalin, Wellbutrin | 5,120+ (stimulant toxicity, FAERS/DAWN) | Dopamine (Catecholamines) | L-Tyrosine and L-Phenylalanine are used to synthesize dopamine and norepinephrine, improving energy, focus, and cognitive performance without stimulant dependency. | L-Tyrosine, L-Phenylalanine |
+| Stress, Panic, Insomnia | Xanax, Klonopin, Ativan | 7,300+ deaths, 12,800+ ER visits (FAERS/DAWN) | GABA | GABA, Theanine, and Taurine promote inhibitory signaling and calm the nervous system, helping manage stress and insomnia without sedation or addiction. | GABA, Theanine, Taurine |
+| Emotional or Physical Pain, Grief | OxyContin, Vicodin, Morphine | 30,000+/year (CDC opioid crisis) | Endorphins | D-Phenylalanine and DLPA increase endorphin and enkephalin levels by blocking enzymatic breakdown, enhancing natural pain relief and emotional resilience. | D-Phenylalanine (DPA), DL-Phenylalanine (DLPA) |
 
-This table summarizes top psychiatric medications by neurotransmitter system, their associated FAERS/DAWN outcomes, and why amino acid therapy should be the **first-line approach** in many cases.
-
-| **Neurotransmitter System** | **Condition(s)** | **Top Pharmaceuticals** | **Reported Deaths (2020–2024)** | **Why Natural First?** | **Amino Acid Support** |
-|-----------------------------|------------------|--------------------------|----------------------------------|-------------------------|-------------------------|
-| **Serotonin** | Depression, Anxiety, Sleep Issues | Lexapro, Prozac, Zoloft | 9,450+ (suicide/overdose, FAERS) | Supports serotonin & melatonin naturally; fewer side effects, can be dosed flexibly. | L-Tryptophan, 5-HTP |
-| **Dopamine (Catecholamines)** | Fatigue, Low Motivation, ADHD | Adderall, Ritalin, Wellbutrin | 5,120+ (stimulant toxicity, FAERS/DAWN) | Boosts energy, focus, and cognition without stimulant crashes or dependency. | L-Tyrosine, L-Phenylalanine |
-| **GABA** | Stress, Panic, Insomnia | Xanax, Klonopin, Ativan | 7,300+ deaths, 12,800+ ER visits (FAERS/DAWN) | Provides calm without sedation, addiction, or withdrawal symptoms. | GABA, Theanine, Taurine |
-| **Endorphins** | Emotional or Physical Pain, Grief | OxyContin, Vicodin, Morphine | 30,000+/year (CDC opioid crisis) | Enhances reward response without risk of overdose or respiratory depression. | D-Phenylalanine (DPA), DL-Phenylalanine (DLPA) |
 
 
 ### 🧠 Note:
