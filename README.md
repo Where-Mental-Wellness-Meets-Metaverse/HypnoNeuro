@@ -77,3 +77,12 @@ We are actively seeking:
 - 🧠 Mental health practitioners to onboard into the system  
 
 **This isn’t just another app — it’s a movement to reclaim healing and privacy.**
+
+---
+
+## 📊 Comparison Tables
+
+- [Amino Acids vs Pharmaceuticals](./amino-vs-pharma.md)  
+  Detailed chart comparing amino acid therapies with psychiatric medications, organized by neurotransmitter system.
+
+
