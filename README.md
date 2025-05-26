@@ -80,6 +80,9 @@ We are actively seeking:
 
 ---
 
+🧠 This chart summarizes outcomes from the FAERS & DAWN databases (2020–2024), highlighting the death and ER visit risk of psychiatric medications vs amino acid therapies.
+[![Nutrient Comparison](https://img.shields.io/badge/%F0%9F%93%8A%20Nutrient%20vs%20Rx%20Table-Evidence%20Based-brightgreen)](./amino-vs-pharma.md)
+
 ## 📊 Comparison Tables
 
 - [Amino Acids vs Pharmaceuticals](./amino-vs-pharma.md)  
