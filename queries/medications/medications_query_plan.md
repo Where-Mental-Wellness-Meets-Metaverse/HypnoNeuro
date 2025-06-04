@@ -1,51 +1,51 @@
 # Query Plan: Psychiatric Medication Prescriptions
 
-## Objective
-Gather national or structured data on psychiatric medication prescriptions for comparison with mental health diagnosis rates.
+## Objective  
+Analyze adverse event reports and prescription data focusing on psychiatric medications mapped by neurotransmitter systems to understand prescription patterns and their outcomes.
 
-## Target Datasets
-- CMS Medicare Part D Prescriber Data
-- OpenFDA (RxNorm/DrugLabel)
-- IQVIA/MarketScan (if access granted)
-- Medicaid Rx Spending Trends (optional)
+## Target Datasets  
+- **FAERS (FDA Adverse Event Reporting System) 2020–2024**  
+- **DAWN (Drug Abuse Warning Network) 2023**  
+- **NPDS (National Poison Data System)** (pending)  
+- **OpenFDA RxNorm mappings**  
 
-## Key Variables
-- Drug Name (e.g. fluoxetine, risperidone)
-- Diagnosis Associated (ICD-9/10 if available)
-- Patient Age Group, Gender
-- Prescriber Type (MD, PA, NP)
-- State / Region
-- Year
+## Key Variables and Filters  
+- Psychiatric medications mapped by neurotransmitter system:  
+  - Serotonin (e.g., SSRIs, 5-HTP)  
+  - Dopamine (e.g., antipsychotics, dopamine agonists)  
+  - GABA (e.g., benzodiazepines)  
+  - Endorphins  
+- Adverse events focused on suicidality, overdose, and death filtered by FAERS reaction terms containing "SUICIDE", "OVERDOSE", "DEATH", "FATAL", etc.  
+- Patient demographics limited due to dataset constraints  
+- Timeframe: 2020 through 2024 for trends  
 
-## Use Case
-Compare prescription rates against diagnosis reliability (e.g. PPV) to support HypnoNeuro’s argument for non-drug-based first-line options.
+## Use Case  
+Identify high-risk medications and neurotransmitter system involvement related to suicidality and mortality to strengthen the case for HypnoNeuro’s orthomolecular and naturopathic first-line treatments.
 
+---
 
-# Query Plan: Suicide and All-Cause Mortality Linked to Medication Use
+# Query Plan: Suicide and Mortality Linked to Medication Use
 
-## Objective
-Analyze national datasets to evaluate associations between psychiatric medication duration and suicide or death rates.
+## Objective  
+Use integrated datasets to quantify and visualize the relationship between psychiatric medication use and suicide or overdose deaths.
 
-## Target Datasets
-- **CDC WONDER** (Multiple Cause of Death)
-- **National Death Index (NDI)** – if accessible
-- **CMS Medicare Part D (for linking Rx to outcomes)**
-- **IQVIA/MarketScan** – if accessible
-- **Medicaid Rx Outcomes Reports**
+## Target Datasets  
+- **FAERS (2020–2024), filtered for death/suicide/overdose events**  
+- **DAWN Emergency Department Visit Data (2023)**  
+- **NPDS (pending integration)**  
+- **VigiAccess (for complementary international adverse event reports)**  
 
-## Key Variables
-- Cause of death (ICD-10 codes: X60–X84 for suicide)
-- Prescription drug class (e.g., antidepressants, antipsychotics)
-- Duration on medication (if timestamps available)
-- Patient demographics (age, sex, race)
+## Key Variables and Filters  
+- Death-related events filtered by terms: "SUICIDE", "OVERDOSE", "FATAL OUTCOME", "DEATH"  
+- Mapping medications by neurotransmitter target system  
+- Filtering by fatal and suicide outcomes using multiple filters across datasets  
+- Patient demographic filters consistent with data availability  
 
-## Query Goals
-- Identify % of suicide victims who had active prescriptions in prior 12 months.
-- Compare mortality outcomes by medication duration (<6 months vs >1 year).
-- Visualize correlation trends between diagnosis → meds → outcomes.
+## Query Goals  
+- Aggregate deaths and suicides linked to specific psychiatric drugs by neurotransmitter class  
+- Visualize trends in adverse outcomes over the years 2020–2024  
+- Support naturopathic methodology as a safer, mortality-reducing alternative  
 
-## HypnoNeuro Use
-These queries support HypnoNeuro's rationale by showing:
-- High-risk clusters among long-term psychiatric drug users.
-- Gaps in support between initial prescription and eventual crisis.
+## HypnoNeuro Relevance  
+These insights provide empirical data-driven evidence to highlight the mortality risks tied to conventional psychiatric medications, reinforcing HypnoNeuro’s mission for natural, safe mental wellness alternatives.
 
