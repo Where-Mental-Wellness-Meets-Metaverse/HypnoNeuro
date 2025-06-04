@@ -56,4 +56,4 @@ This modality recognizes that unresolved trauma fragments emotional regulation â
 
 ---
 
-## Combining the Modalities in a Web3 Framewo
+## Combining the Modalities in a Web3 Framework
