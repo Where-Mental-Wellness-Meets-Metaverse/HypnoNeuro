@@ -14,6 +14,5 @@ File included:
 
 Owner & Maintainer: Dr. Meg Montañez-Davenport
 Date Created: June 15, 2025
-Contact: [your preferred contact method, e.g., email]
 Project: HypnoNeuro Data Repository
 Notes: This README was generated and maintained by Dr. Meg Montañez-Davenport to ensure data accuracy and provenance.
