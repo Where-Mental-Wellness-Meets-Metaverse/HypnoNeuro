@@ -1,1 +1,0 @@
-Placeholder file to initialize folder structure for NPDS 2020 suicide dataset.
