@@ -1,23 +1,22 @@
-# NPDS 2021 – Suicide-Related Exposures by Neurotransmitter System
+# NPDS 2021 Data
 
-This folder contains manually extracted suicide-related exposure data from the 2020 Annual Report of the National Poison Data System (NPDS).
+Data manually extracted from the 2021 National Poison Data System (NPDS) Annual Full Report.
 
-## Source
-- **Document**: NPDS 2021 Full Report
-- **Section**: Distribution of Suicides (Page 1304)
-- **Organization**: America's Poison Centers
+Suicide-related exposure data by neurotransmitter system was taken from:
 
-## File Description
+- Tables 24 to 28, pages 231 to 233.
+- Classification based on substance categories mapped to neurotransmitter systems.
 
-- `npds_2020_suicide_by_neurotransmitter.csv`  
-  Contains suicide-related exposures grouped by neurotransmitter system (e.g., Serotonin, Dopamine, GABA), based on drug class mappings used in the FAERS and DAWN datasets.
+No diagnostic codes (e.g., ICD-10) were used.
 
-## Notes
+File included:  
+- npds_2021_suicide_by_neurotransmitter.csv
 
-- Death counts were not reported by neurotransmitter system in NPDS 2020.
-- Age-specific suicide data was not available.
-- Values were manually extracted and aligned with HypnoNeuro's data structure for consistent cross-dataset analysis.
 
 ---
-
-© 2025 Dr. Meg Montañez-Davenport. All rights reserved. Unauthorized copying or distribution is strictly prohibited.
+Prepared by Dr. Meg Montañez Davenport  
+Date: 2025  
+Contact: dr.meg.data.scientist@gmail.com  
+Project: HypnoNeuro – Where Mental Wellness Meets the Metaverse  
+© All rights reserved.
+---
