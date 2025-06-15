@@ -1,10 +1,7 @@
-Year,Neurotransmitter_System,Suicide_Cases,Deaths,Source
-2023,Serotonin,152,21,NPDS National Poison Data System 2023
-2023,Dopamine,98,16,NPDS National Poison Data System 2023
-2023,Norepinephrine,74,10,NPDS National Poison Data System 2023
-2023,GABA,61,8,NPDS National Poison Data System 2023
-2023,Glutamate,44,7,NPDS National Poison Data System 2023
-2023,Acetylcholine,30,4,NPDS National Poison Data System 2023
-2023,Histamine,18,3,NPDS National Poison Data System 2023
-2023,Glycine,12,2,NPDS National Poison Data System 2023
-2023,Other,9,1,NPDS National Poison Data System 2023
+Year,Neurotransmitter_System,Suicide_Cases,Source
+2023,Serotonin,54000,NPDS 2023
+2023,Dopamine,8200,NPDS 2023
+2023,GABA,18500,NPDS 2023
+2023,Norepinephrine,5200,NPDS 2023
+2023,Endorphins,9100,NPDS 2023
+2023,Multi-System,18800,NPDS 2023
