@@ -1,20 +1,17 @@
 # NPDS 2021 Data
 
-## Data Overview
-This folder contains the 2021 dataset files extracted from the National Poison Data System (NPDS). The data focuses on suicide cases analyzed by neurotransmitter type.
+Data manually extracted from the 2021 National Poison Data System (NPDS) Annual Full Report.
 
-## Extraction Methods
-- Data acquired through NPDS API endpoints and verified manual downloads.
-- Suicide-related cases filtered by ICD-10 coding standards consistent with 2020 methodology.
-- Neurotransmitter classification adapted for 2021 coding updates.
+Suicide-related exposure data by neurotransmitter system was taken from:
 
-## Included Files
-- `npds_2021_suicide_by_neurotransmitter.csv`: Suicide cases by neurotransmitter for 2021.
-- Supplementary metadata and documentation files relevant to the 2021 data.
+- Tables 24 to 28, pages 231 to 233.
+- Classification based on substance categories mapped to neurotransmitter systems.
 
-## Source References
-- NPDS Public Data Portal: https://www.poisondata.org/
-- NPDS Coding Manual (2021 edition)
+No diagnostic codes (e.g., ICD-10) were used.
+
+File included:  
+- npds_2021_suicide_by_neurotransmitter.csv
+
 
 ---
 Prepared by Dr. Meg Montañez Davenport  
