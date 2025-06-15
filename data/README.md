@@ -15,3 +15,11 @@ This folder contains the 2021 dataset files extracted from the National Poison D
 ## Source References
 - NPDS Public Data Portal: https://www.poisondata.org/
 - NPDS Coding Manual (2021 edition)
+
+---
+Prepared by Dr. Meg Montañez Davenport  
+Date: 2025  
+Contact: dr.meg.data.scientist@gmail.com  
+Project: HypnoNeuro – Where Mental Wellness Meets the Metaverse  
+© All rights reserved.
+---
