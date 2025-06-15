@@ -16,8 +16,3 @@ Files included:
 Prepared by Dr. Meg Montañez Davenport  
 Date: 2025
 
-
-
-Prepared by Dr. Meg Montañez Davenport  
-Date: 2025  
-
