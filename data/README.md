@@ -1,9 +1,9 @@
-# NPDS 2020 – Suicide-Related Exposures by Neurotransmitter System
+# NPDS 2021 – Suicide-Related Exposures by Neurotransmitter System
 
 This folder contains manually extracted suicide-related exposure data from the 2020 Annual Report of the National Poison Data System (NPDS).
 
 ## Source
-- **Document**: NPDS 2020 Full Report
+- **Document**: NPDS 2021 Full Report
 - **Section**: Distribution of Suicides (Page 1304)
 - **Organization**: America's Poison Centers
 
