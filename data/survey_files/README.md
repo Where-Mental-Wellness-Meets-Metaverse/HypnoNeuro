@@ -11,4 +11,3 @@ These files support the analysis and research modules related to user surveys an
 
 Prepared by Dr. Meg Montañez Davenport  
 Date: 2025  
-Contact: dr.meg.data.scientist@gmail.com  
