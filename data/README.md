@@ -1,22 +1,25 @@
-# NPDS 2021 Data
+HypnoNeuro Data Repository
+This folder contains datasets and extracted files related to the HypnoNeuro project.
 
-Data manually extracted from the 2021 National Poison Data System (NPDS) Annual Full Report.
+Data Sources Overview
+NPDS (National Poison Data System): Data extracted from annual NPDS reports for years 2020 and 2021.
 
-Suicide-related exposure data by neurotransmitter system was taken from:
+Survey Data: Collected survey responses relevant to mental health and wellness.
 
-- Tables 24 to 28, pages 231 to 233.
-- Classification based on substance categories mapped to neurotransmitter systems.
+Additional Data: Includes gamified modules, mental health models, research visuals, and presentation materials supporting HypnoNeuro analytics and insights.
 
-No diagnostic codes (e.g., ICD-10) were used.
+NPDS Data
+NPDS data is organized by year under data_sources/NPDS/ with suicide-related exposure data mapped to neurotransmitter systems.
 
-File included:  
-- npds_2021_suicide_by_neurotransmitter.csv
+Extraction was manual from official NPDS Annual Full Reports.
+
+No diagnostic codes (e.g., ICD-10) were used for classification.
+
 
 
 ---
 Prepared by Dr. Meg Montañez Davenport  
 Date: 2025  
-Contact: dr.meg.data.scientist@gmail.com  
 Project: HypnoNeuro – Where Mental Wellness Meets the Metaverse  
 © All rights reserved.
 ---
