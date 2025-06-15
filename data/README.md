@@ -14,11 +14,6 @@ This folder contains datasets and extracted files related to the HypnoNeuro proj
 - Extraction was manual from official NPDS Annual Full Reports.
 - No diagnostic codes (e.g., ICD-10) were used for classification.
 
-## Contact
-
-Prepared by Dr. Meg Montañez Davenport  
-Email: dr.meg.data.scientist@gmail.com  
-Date: 2025
 
 
 ---
