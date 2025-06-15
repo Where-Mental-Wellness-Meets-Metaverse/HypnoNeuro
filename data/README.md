@@ -16,7 +16,6 @@ File included:
 
 Prepared by Dr. Meg Montañez Davenport  
 Date: 2025  
-Contact: dr.meg.data.scientist@gmail.com  
 Project: HypnoNeuro – Where Mental Wellness Meets the Metaverse  
 © All rights reserved.
 
